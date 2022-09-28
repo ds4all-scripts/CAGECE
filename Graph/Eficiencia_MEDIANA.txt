@@ -1,0 +1,6 @@
+"Anaeróbia" "Facultativa" "1ª Maturação" "2ª Maturação"
+"Sólidos Suspensos Totais - mg/L" 54.249 43.179 56.069 61.561
+"pH" -1.849 -6.301 -7.603 -6.849
+"Escherichlia coli- NMP/100 mL" 83.667 99.133 99.939 99.997
+"DQO - mg/L" 27.247 36.99 49.738 56.597
+"Coliformes Totais - NMP/100 mL" 86.949 95.593 99.593 99.593
